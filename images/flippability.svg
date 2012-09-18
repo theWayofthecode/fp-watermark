@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="6cm" height="8cm" viewBox="153 52 166 236" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="180" y="157" width="132" height="130"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #7f7f7f" x1="180" y1="200.333" x2="312" y2="200.333"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #7f7f7f" x1="180" y1="243.667" x2="312" y2="243.667"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #7f7f7f" x1="224" y1="157" x2="224" y2="287"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #7f7f7f" x1="268" y1="157" x2="268" y2="287"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="180" y="157" width="132" height="130"/>
+  </g>
+  <text style="fill: #000000;text-anchor:start;font-size:20.0262;font-family:sanserif;font-style:normal;font-weight:normal" x="154" y="108">
+    <tspan x="154" y="108">0 1 1 0 1 0 1 0 1</tspan>
+  </text>
+  <g>
+    <rect style="fill: #000000" x="269.05" y="159.15" width="42.95" height="43.85"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="269.05" y="159.15" width="42.95" height="43.85"/>
+  </g>
+  <text style="fill: #000000;text-anchor:start;font-size:20.0262;font-family:sanserif;font-style:normal;font-weight:normal" x="190" y="71">
+    <tspan x="190" y="71">index 213</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #222222" x1="287.624" y1="112.432" x2="242" y2="184"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #222222" points="294.528,110.904 287.624,112.432 286.096,105.528 "/>
+    <path style="fill: #222222" d="M 242 184 C 239.892,182.656 239.128,179.204 240.472,177.096 C 241.816,174.988 245.268,174.224 247.376,175.568 C 249.484,176.912 250.248,180.364 248.904,182.472 C 247.56,184.58 244.108,185.344 242,184z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #222222" d="M 242 184 C 239.892,182.656 239.128,179.204 240.472,177.096 C 241.816,174.988 245.268,174.224 247.376,175.568 C 249.484,176.912 250.248,180.364 248.904,182.472 C 247.56,184.58 244.108,185.344 242,184"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #7f7f7f" x1="276.97" y1="113.804" x2="290" y2="178.667"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #7f7f7f" points="280.887,107.917 276.97,113.804 271.083,109.887 "/>
+    <path style="fill: #7f7f7f" d="M 290 178.667 C 287.549,179.159 284.606,177.2 284.113,174.749 C 283.621,172.298 285.579,169.355 288.03,168.863 C 290.481,168.37 293.425,170.329 293.917,172.78 C 294.41,175.231 292.451,178.174 290,178.667z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #7f7f7f" d="M 290 178.667 C 287.549,179.159 284.606,177.2 284.113,174.749 C 283.621,172.298 285.579,169.355 288.03,168.863 C 290.481,168.37 293.425,170.329 293.917,172.78 C 294.41,175.231 292.451,178.174 290,178.667"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #222222" x1="251.052" y1="112.188" x2="200" y2="231"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #222222" points="257.62,109.568 251.052,112.188 248.432,105.62 "/>
+    <path style="fill: #222222" d="M 200 231 C 197.703,230.013 196.393,226.729 197.38,224.432 C 198.367,222.135 201.651,220.825 203.948,221.812 C 206.245,222.799 207.555,226.083 206.568,228.38 C 205.581,230.677 202.297,231.987 200,231z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #222222" d="M 200 231 C 197.703,230.013 196.393,226.729 197.38,224.432 C 198.367,222.135 201.651,220.825 203.948,221.812 C 206.245,222.799 207.555,226.083 206.568,228.38 C 205.581,230.677 202.297,231.987 200,231"/>
+  </g>
+  <g>
+    <rect style="fill: #000000" x="181.1" y="157.3" width="42.95" height="43.85"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="181.1" y="157.3" width="42.95" height="43.85"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #7f7f7f" x1="303.804" y1="110.73" x2="199" y2="184"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #7f7f7f" points="310.767,111.963 303.804,110.73 305.037,103.767 "/>
+    <path style="fill: #7f7f7f" d="M 199 184 C 197.568,181.951 198.184,178.47 200.233,177.037 C 202.282,175.605 205.763,176.221 207.196,178.27 C 208.628,180.319 208.012,183.801 205.963,185.233 C 203.914,186.665 200.432,186.049 199,184z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #7f7f7f" d="M 199 184 C 197.568,181.951 198.184,178.47 200.233,177.037 C 202.282,175.605 205.763,176.221 207.196,178.27 C 208.628,180.319 208.012,183.801 205.963,185.233 C 203.914,186.665 200.432,186.049 199,184"/>
+  </g>
+  <g>
+    <rect style="fill: #000000" x="225.1" y="201.3" width="42.95" height="43.85"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="225.1" y="201.3" width="42.95" height="43.85"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #7f7f7f" x1="239.403" y1="114.992" x2="244" y2="229"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #7f7f7f" points="244.197,109.794 239.403,114.992 234.206,110.197 "/>
+    <path style="fill: #7f7f7f" d="M 244 229 C 241.502,229.101 238.903,226.703 238.803,224.206 C 238.702,221.708 241.099,219.109 243.597,219.008 C 246.095,218.907 248.694,221.305 248.794,223.803 C 248.895,226.301 246.498,228.899 244,229z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #7f7f7f" d="M 244 229 C 241.502,229.101 238.903,226.703 238.803,224.206 C 238.702,221.708 241.099,219.109 243.597,219.008 C 246.095,218.907 248.694,221.305 248.794,223.803 C 248.895,226.301 246.498,228.899 244,229"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #222222" x1="223.104" y1="112.6" x2="291" y2="227"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #222222" points="224.852,105.748 223.104,112.6 216.252,110.852 "/>
+    <path style="fill: #222222" d="M 291 227 C 288.85,228.276 285.424,227.402 284.148,225.252 C 282.872,223.102 283.746,219.676 285.896,218.4 C 288.046,217.125 291.472,217.998 292.748,220.148 C 294.024,222.298 293.15,225.724 291,227z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #222222" d="M 291 227 C 288.85,228.276 285.424,227.402 284.148,225.252 C 282.872,223.102 283.746,219.676 285.896,218.4 C 288.046,217.125 291.472,217.998 292.748,220.148 C 294.024,222.298 293.15,225.724 291,227"/>
+  </g>
+  <g>
+    <rect style="fill: #000000" x="180.1" y="243.3" width="42.95" height="43.85"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="180.1" y="243.3" width="42.95" height="43.85"/>
+  </g>
+  <g>
+    <rect style="fill: #000000" x="225.15" y="243.45" width="42.95" height="43.85"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="225.15" y="243.45" width="42.95" height="43.85"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #7f7f7f" x1="198.343" y1="112.146" x2="203" y2="271"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #7f7f7f" points="203.194,107.001 198.343,112.146 193.199,107.294 "/>
+    <path style="fill: #7f7f7f" d="M 203 271 C 200.501,271.073 197.929,268.648 197.856,266.149 C 197.782,263.65 200.208,261.078 202.707,261.004 C 205.206,260.931 207.778,263.357 207.851,265.856 C 207.925,268.355 205.499,270.927 203,271z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #7f7f7f" d="M 203 271 C 200.501,271.073 197.929,268.648 197.856,266.149 C 197.782,263.65 200.208,261.078 202.707,261.004 C 205.206,260.931 207.778,263.357 207.851,265.856 C 207.925,268.355 205.499,270.927 203,271"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #7f7f7f" x1="182.979" y1="113.174" x2="251" y2="270"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #7f7f7f" points="185.577,106.598 182.979,113.174 176.402,110.577 "/>
+    <path style="fill: #7f7f7f" d="M 251 270 C 248.706,270.995 245.418,269.696 244.423,267.402 C 243.429,265.109 244.727,261.821 247.021,260.826 C 249.314,259.831 252.603,261.13 253.598,263.423 C 254.592,265.717 253.294,269.005 251,270z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #7f7f7f" d="M 251 270 C 248.706,270.995 245.418,269.696 244.423,267.402 C 243.429,265.109 244.727,261.821 247.021,260.826 C 249.314,259.831 252.603,261.13 253.598,263.423 C 254.592,265.717 253.294,269.005 251,270"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #222222" x1="166.274" y1="111.787" x2="290" y2="265.333"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #222222" points="167.031,104.756 166.274,111.787 159.244,111.031 "/>
+    <path style="fill: #222222" d="M 290 265.333 C 288.053,266.902 284.538,266.524 282.969,264.577 C 281.401,262.631 281.779,259.115 283.726,257.547 C 285.672,255.978 289.188,256.356 290.756,258.303 C 292.325,260.249 291.947,263.765 290,265.333z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2.2; stroke: #222222" d="M 290 265.333 C 288.053,266.902 284.538,266.524 282.969,264.577 C 281.401,262.631 281.779,259.115 283.726,257.547 C 285.672,255.978 289.188,256.356 290.756,258.303 C 292.325,260.249 291.947,263.765 290,265.333"/>
+  </g>
+</svg>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="11cm" height="10cm" viewBox="116 166 356 331" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="226" y="169" width="139" height="74" rx="32" ry="32"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4.8; stroke-linejoin: round; stroke: #000000" x="226" y="169" width="139" height="74" rx="32" ry="32"/>
+  </g>
+  <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="295.5" y="206">
+    <tspan x="295.5" y="206"></tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="264" y="212">
+    <tspan x="264" y="212"></tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:14.5514;font-family:monospace;font-style:normal;font-weight:normal" x="242" y="210">
+    <tspan x="242" y="210">watermark_f.c</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="201.3" y="286.3" width="190.7" height="74" rx="32" ry="32"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4.8; stroke-linejoin: round; stroke: #000000" x="201.3" y="286.3" width="190.7" height="74" rx="32" ry="32"/>
+  </g>
+  <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="296.65" y="323.3">
+    <tspan x="296.65" y="323.3"></tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="239.3" y="329.3">
+    <tspan x="239.3" y="329.3"></tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:14.5514;font-family:monospace;font-style:normal;font-weight:normal" x="217.3" y="327.3">
+    <tspan x="217.3" y="327.3">bin_watermarking.c</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="119.2" y="420.2" width="139" height="74" rx="32" ry="32"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4.8; stroke-linejoin: round; stroke: #000000" x="119.2" y="420.2" width="139" height="74" rx="32" ry="32"/>
+  </g>
+  <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="188.7" y="457.2">
+    <tspan x="188.7" y="457.2"></tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="157.2" y="463.2">
+    <tspan x="157.2" y="463.2"></tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:14.5514;font-family:monospace;font-style:normal;font-weight:normal" x="126.2" y="462.2">
+    <tspan x="126.2" y="462.2">flippability.c</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="331.1" y="420.35" width="139" height="74" rx="32" ry="32"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4.8; stroke-linejoin: round; stroke: #000000" x="331.1" y="420.35" width="139" height="74" rx="32" ry="32"/>
+  </g>
+  <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="400.6" y="457.35">
+    <tspan x="400.6" y="457.35"></tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.7998;font-family:sanserif;font-style:normal;font-weight:normal" x="369.1" y="463.35">
+    <tspan x="369.1" y="463.35"></tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:14.5514;font-family:monospace;font-style:normal;font-weight:normal" x="358.1" y="460.35">
+    <tspan x="358.1" y="460.35">shuffling.c</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x1="188.7" y1="420.2" x2="285.951" y2="366.237"/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="288.377,370.609 294.695,361.385 283.525,361.865 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="400.6" y1="420.35" x2="307.245" y2="366.421"/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="309.746,362.091 298.586,361.419 304.744,370.75 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="296.65" y1="286.3" x2="295.825" y2="255.232"/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="300.823,255.099 295.559,245.235 290.827,255.365 "/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke-dasharray: 26; stroke: #000000" x1="133" y1="263.25" x2="462" y2="263.25"/>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:italic;font-weight:normal" x="410" y="210.25">
+    <tspan x="410" y="210.25">frontend</tspan>
+  </text>
+  <text style="fill: #000000;text-anchor:start;font-size:12.8;font-family:sanserif;font-style:italic;font-weight:normal" x="415" y="323.25">
+    <tspan x="415" y="323.25">backend</tspan>
+  </text>
+</svg>

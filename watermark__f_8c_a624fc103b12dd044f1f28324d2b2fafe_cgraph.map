@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$bin__watermarking_8c.html#a0a9abc16b6f8a6257a6aab4b6e74ffb0" title="embed" alt="" coords="144,32,211,61"/>
+<area shape="rect" id="node5" href="$flippability_8c.html#a814ccabcf5a9414b71b209269b2467a8" title="init_flippability_lut" alt="" coords="272,5,405,35"/>
+<area shape="rect" id="node7" href="$shuffling_8c.html#ab097698ab6acf4fe21e0033e0b093bcd" title="random_permutation" alt="" coords="260,59,417,88"/>
+</map>
