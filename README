@@ -1,0 +1,36 @@
+For comprehensive description regarding the fp_watermark software
+you are adviced to check the documentation doc/html/index.html
+
+Dependecies
+-----------
+The current software depends on the following libraries.
+* libnetpbm
+* libfprint
+* zlib
+
+If you don't have a fingerprint reader and still want to
+experiment with the watermarking module, you can use
+the tester.
+
+Build
+-----
+
+Just cd in src/ and make which results to the creation
+of the fbw binary.
+
+to build the tester execute make tester.
+The source code corresponding to the test routines is
+in the test_bw.c file.
+
+Run
+---
+
+The software at the moment takes two arguments,
+the option and a file path.
+
+* options
+    -w This is for watermarking
+    -a and this one is for authentication which produces a (modified) copy
+        of the original file with the name out.pbm.
+
+
